@@ -59,7 +59,7 @@ export default function Hero() {
         preload="auto"
         className="pointer-events-none absolute inset-0 h-full w-full object-cover opacity-30"
       >
-        <source src="/videos/gaming-montage.mp4" type="video/mp4" />
+        <source src="/videos/gaming-montage-mobile.mp4" type="video/mp4" />
       </video>
 
       {/* Dark overlay for readability */}
