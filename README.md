@@ -1,3 +1,5 @@
-# XRAIDERS landing page
+# XRaiders web app
 
-Edit `src/config/site.js` (Discord/WhatsApp URLs) and `src/data/games.js` (games). `npm install && npm run dev`; build with `npm run build` (output `dist/`).
+Ein Repository für die XRaiders Gaming-Community, das Links und Verzeichnisse für die Community-Server und -Gruppen enthält.
+
+[XRaiders Webseite](https://xraiders.pages.dev)
